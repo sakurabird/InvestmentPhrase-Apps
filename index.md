@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# プライバシー・ポリシー
 
-You can use the [editor on GitHub](https://github.com/sakurabird/InvestmentPhrase-Apps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+【2019年7月10日制定】
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 個人情報について
 
-### Markdown
+「プライバシー・ポリシー」は、SakuraFishが運営する「投資名言アプリ」（以下「本サービス」）において、本サービス利用にあたって利用者に適用されるエンド・ユーザー使用許諾契約書の一部を構成しており、利用者が本サービスを利用するときに適用されます。また、本サービスにおいて利用者から取得した個人情報は、本プライバシー・ポリシーに従って管理されます。本サービスを通じて情報やサービスを提供している会社などがそれぞれ利用者のみなさまから取得している個人情報については適用されません。また、本サービスの利用者以外の方には適用されません。 本サービス上で取得された個人情報は、SakuraFishの事業上の秘密情報と同等のレベルにおいて秘密に保持されるものとします。またこれ以外にも、それ単体では直接個人が特定出来ずとも、複合する事により個人情報となり得る情報についても、同様の取扱いを行います。
+  
+「個人情報」とは、個人情報保護法にいう「個人情報」を指すものとし、生存する個人に関する情報であり、当該情報に含まれる以下の情報を指します。  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 氏名、ユーザー名またはニックネーム
+- 生年月日
+- 住所
+- 電話番号
+- 連絡先
+- その他の記述等により特定の個人を識別できる情報
+- 特定の個人に属する情報（メールアドレス・利用履歴・利用料金等）
 
-```markdown
-Syntax highlighted code block
+## ご提供いただく情報について
 
-# Header 1
-## Header 2
-### Header 3
+(1)端末情報(端末機種、OSバージョン)  
+(2)氏名、ユーザー名またはニックネーム  
+(3)メールアドレス  
+(4)Googleアカウント情報  
+(5)カメラ情報（画像、映像、音声等）  
+  
+当アプリでは(1)についてご提供いただいております。  
+(1)統計データ、不具合対応のため  
 
-- Bulleted
-- List
+## 取得した情報の利用
 
-1. Numbered
-2. List
+当アプリは、取得した個人情報を、以下の目的で利用します。  
 
-**Bold** and _Italic_ and `Code` text
+- 本アプリケーションの提供のため
+- 不正利用防止のため
+- 本アプリケーション利用に関する統計データを作成・分析するため
+- ユーザー様からの問い合わせに対応するため
+- 広告の配信及びその成果確認のため
+- システムメンテナンス、不具合対応のため
+  
+## 個人情報の第三者提供
 
-[Link](url) and ![Image](src)
-```
+SakuraFishは、ユーザー様の個人情報を、以下の場合、第三者に提供することがあります。  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 本人が事前に同意した場合
+- 法律に基づく場合
+- 外部サービスと連携する場合  
+外部サービスを利用した認証にあたって、当該外部サービス提供会社にお客様の情報を提供することがあります。
+  
+## プライバシーポリシーの改定
 
-### Jekyll Themes
+本ポリシーの内容は、ユーザー様に通知することなく随時改定されることがあります。本ポリシーは、SakuraFishが本アプリケーション内に掲載した時点から適用されます。  
+  
+## お問い合わせ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sakurabird/InvestmentPhrase-Apps/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本ポリシーに関してのご質問は、sakurafish1@gmail.comにご連絡ください。  
